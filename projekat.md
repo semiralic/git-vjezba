@@ -11,3 +11,5 @@ EcoTrack je zamišljena mobilna aplikacija koja pomaže korisnicima da prate svo
 
 ## Opis
 Ovaj repozitorijum služi kao prototip za MVP verziju aplikacije. Fokus trenutnog razvoja je na logici za izračunavanje uštede CO2 prilikom odabira bicikla umjesto automobila.
+
+* **Status projekta:** U izradi
